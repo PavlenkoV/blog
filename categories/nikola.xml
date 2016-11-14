@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Блог Виталия Павленко (Nikola)</title><link>https://pavlenkov.github.io/blog/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://pavlenkov.github.io/blog/categories/nikola.xml"></atom:link><language>ru</language><lastBuildDate>Mon, 14 Nov 2016 20:51:38 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World!</title><link>https://pavlenkov.github.io/blog/posts/hello-world/</link><dc:creator>Vitaliy Pavlenko</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Блог Виталия Павленко (Nikola)</title><link>https://pavlenkov.github.io/blog/</link><description></description><atom:link type="application/rss+xml" rel="self" href="https://pavlenkov.github.io/blog/categories/nikola.xml"></atom:link><language>ru</language><lastBuildDate>Mon, 14 Nov 2016 21:13:26 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World!</title><link>https://pavlenkov.github.io/blog/posts/hello-world/</link><dc:creator>Vitaliy Pavlenko</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
     &lt;div class="container" id="notebook-container"&gt;
 
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
@@ -44,5 +44,223 @@
 &lt;li&gt;&lt;a href="http://areskibelaid.com/nikola-one-kickass-site-generator/"&gt;Nikola, one kickass Site and Blog generator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;И, конечно,  'last but not least' -  этот генератор назван в честь выдающегося ученого и изобретателя Николы Теслы.
-Есть и определённые минусы, не всё гладко с отображением кириллицы (по крайней мере, я с этим столкнулся и пришлось подбирать шрифт), не всё в документации прописано прозрачно и многие моменты пробовал интуитивно. Но всё это мелочи по сравнению с огромным потенциалом, заложенным в данный генератор статических сайтов.
-&lt;/p&gt;&lt;p&gt;&lt;a href="https://pavlenkov.github.io/blog/posts/hello-world/"&gt;Читать далее…&lt;/a&gt; (3 минут чтения осталось)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>Jupyter Notebook</category><category>Nikola</category><category>web</category><guid>https://pavlenkov.github.io/blog/posts/hello-world/</guid><pubDate>Mon, 14 Nov 2016 20:51:32 GMT</pubDate></item></channel></rss>
+Есть и определённые минусы, не всё гладко с отображением кириллицы (по крайней мере, я с этим столкнулся и пришлось подбирать шрифт), не всё в документации прописано прозрачно и многие моменты пробовал интуитивно. Но всё это мелочи по сравнению с огромным потенциалом, заложенным в данный генератор статических сайтов.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="The-Jupyter-Notebook"&gt;&lt;a href="http://jupyter.org/"&gt;The Jupyter Notebook&lt;/a&gt;&lt;a class="anchor-link" href="https://pavlenkov.github.io/blog/posts/hello-world/#The-Jupyter-Notebook"&gt;¶&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;br&gt;
+&lt;img src="https://pavlenkov.github.io/blog/images/jupyter-site-950.png"&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;С помощью jupyter notebook (запустив онлайн или установив на компьютер), вы сможете создавать документы notebooks (по сути, JSON c расширение ipynb), которые содержат как программный код, который можно интерактивно запускать, вносить изменения (например, на Python), так и расширенный текст, и диаграммы. Данными документами очень удобно делиться в интеренете или конвертировать в различные форматы, например, HTML, Markdown, reST, pdf.  Кроме этого, это и удобная оболочка c 'магическими командами', которая позволяет тесно взаимодейстовать с Python.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [7]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;ll&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;total 568
+-rw-r--r-- 1 vitaliy   9260 лис  2 15:49 base_blog.html
+-rw-r--r-- 1 vitaliy    163 жов 26 14:13 checker_div.py
+drwxr-xr-x 3 vitaliy   4096 жов 26 14:13 &lt;span class="ansi-blue-intense-fg ansi-bold"&gt;css&lt;/span&gt;/
+-rw-r--r-- 1 vitaliy  13328 лис  2 15:39 index2.html
+-rw-r--r-- 1 vitaliy  17607 лис  2 15:30 index.html
+drwxr-xr-x 2 vitaliy   4096 лис 14 19:13 &lt;span class="ansi-blue-intense-fg ansi-bold"&gt;__pycache__&lt;/span&gt;/
+-rw-r--r-- 1 vitaliy   3869 лис  2 15:39 script.js
+-rw-r--r-- 1 vitaliy 256336 лис  2 13:35 Untitled1.html
+-rw-r--r-- 1 vitaliy 250093 лис  2 13:37 Untitled.html
+drwxr-xr-x 2 vitaliy   4096 жов 26 14:13 &lt;span class="ansi-blue-intense-fg ansi-bold"&gt;w3images&lt;/span&gt;/
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;&lt;br&gt;
+Пример использования Jupyter Notebook. В ходе работы над оформлением одного из сайтов, возникла необходимость просмотреть количество незакрытых div. Конечно, это удобно сделать с помощью любого текстового редактора, например, моего любимого &lt;a href="https://www.sublimetext.com/3"&gt;Sublime Text3&lt;/a&gt;. Но чтобы показать как выделяется код в документе Jupyter notebook, напишем модуль на Python.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [8]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+&lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="nb"&gt;open&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'index.html'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="n"&gt;f&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;f&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="s1"&gt;'&amp;lt;div'&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;+=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="s1"&gt;'&amp;lt;/div'&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;-=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;
+
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;5
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [9]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;json&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [15]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;help&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'json.load'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;Help on function load in json:
+
+json.load = load(fp, cls=None, object_hook=None, parse_float=None, parse_int=None, parse_constant=None, object_pairs_hook=None, **kw)
+    Deserialize ``fp`` (a ``.read()``-supporting file-like object containing
+    a JSON document) to a Python object.
+    
+    ``object_hook`` is an optional function that will be called with the
+    result of any object literal decode (a ``dict``). The return value of
+    ``object_hook`` will be used instead of the ``dict``. This feature
+    can be used to implement custom decoders (e.g. JSON-RPC class hinting).
+    
+    ``object_pairs_hook`` is an optional function that will be called with the
+    result of any object literal decoded with an ordered list of pairs.  The
+    return value of ``object_pairs_hook`` will be used instead of the ``dict``.
+    This feature can be used to implement custom decoders that rely on the
+    order that the key and value pairs are decoded (for example,
+    collections.OrderedDict will remember the order of insertion). If
+    ``object_hook`` is also defined, the ``object_pairs_hook`` takes priority.
+    
+    To use a custom ``JSONDecoder`` subclass, specify it with the ``cls``
+    kwarg; otherwise ``JSONDecoder`` is used.
+
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Ccылки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://jupyter.readthedocs.io/en/latest/"&gt;Jupyter Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openfablab.ru/play/default/showtask/196"&gt;Неплохая обзорная статья на русском языке&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Для меня удобство Jupyter Notebook состоит в том, что в своих блогах я планирую показывать Python код. Поэтому установив и запустив Jupyter Notebook App на компьютере, можно в браузере формировать участки в формате Markdown и вставлять Python код, сохранять в формате .ipynb и затем Nikola конвертирует результат в HTML.
+&lt;br&gt;
+Пример:&lt;/p&gt;
+&lt;p&gt;(nikola) vitaliy@comp:~/Documents/my_blog$ nikola new_post -i "first.ipynb" -f ipynb --tags='web','site generator'&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="GitHub-Pages"&gt;&lt;a href="https://pages.github.com/"&gt;GitHub Pages&lt;/a&gt;&lt;a class="anchor-link" href="https://pavlenkov.github.io/blog/posts/hello-world/#GitHub-Pages"&gt;¶&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;br&gt;
+&lt;img src="https://pavlenkov.github.io/blog/images/gh-pages-950.png"&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;В интернете есть масса информации по использованию GitHub Pages как бесплатного хостинга для статических сайтов. Пример, &lt;a href="https://htmlacademy.ru/blog/99-github-as-hosting"&gt;https://htmlacademy.ru/blog/99-github-as-hosting&lt;/a&gt;. Для этого необходимо лишь зарегистрироваться на Github. Отмечу, что Nikola уже с коробки умеет делать deploy на GitHub Pages.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><category>Jupyter Notebook</category><category>Nikola</category><category>web</category><guid>https://pavlenkov.github.io/blog/posts/hello-world/</guid><pubDate>Mon, 14 Nov 2016 20:51:32 GMT</pubDate></item></channel></rss>
