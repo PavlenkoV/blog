@@ -7,42 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://pavlenkov.github.io/blog/</loc>
-  <lastmod>2016-11-14T20:50:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/archive.html</loc>
-  <lastmod>2016-11-14T21:39:00Z</lastmod>
+  <lastmod>2016-11-15T09:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/categories/</loc>
-  <lastmod>2016-11-14T20:51:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/categories/jupyter-notebook/</loc>
-  <lastmod>2016-11-14T20:51:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/categories/nikola/</loc>
-  <lastmod>2016-11-14T20:51:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/categories/web/</loc>
-  <lastmod>2016-11-14T20:51:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pavlenkov.github.io/blog/galleries/</loc>
-  <lastmod>2016-11-04T15:54:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pavlenkov.github.io/blog/listings/</loc>
-  <lastmod>2016-11-04T15:54:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/pages/about-me/</loc>
-  <lastmod>2016-11-14T20:50:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://pavlenkov.github.io/blog/posts/hello-world/</loc>
-  <lastmod>2016-11-14T20:51:00Z</lastmod>
+  <lastmod>2016-11-15T09:34:00Z</lastmod>
  </url>
 </urlset>
