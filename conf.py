@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Tags', 'icon-tags'),
            # ('/rss.xml', 'RSS', 'icon-rss'),
         ('/pages/about-me/', 'About me', 'icon-user'),
-        ('https://twitter.com/perfect_kingc/lists/programming?ref_src=twsrc%5Etfw', 'Twitter', 'icon-twitter'),
+        ('https://twitter.com/pythonhub', 'Twitter', 'icon-twitter'),
            # ('https://github.com/getnikola', 'My Github', 'icon-github'),
         )
     }
