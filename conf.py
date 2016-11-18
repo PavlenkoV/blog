@@ -137,10 +137,11 @@ NAVIGATION_LINKS = {
         ('/index.html', 'Home', 'icon-home'),
         ('/archive.html', 'Archives', 'icon-folder-open-alt'),
         ('/categories/index.html', 'Tags', 'icon-tags'),
-           # ('/rss.xml', 'RSS', 'icon-rss'),
         ('/pages/about-me/', 'About me', 'icon-user'),
+        ('https://github.com/PavlenkoV/links', 'Useful Links', 'icon-external-link'),
         ('https://twitter.com/perfect_kingc/lists/programming', 'Twitter', 'icon-twitter'),
-           # ('https://github.com/getnikola', 'My Github', 'icon-github'),
+        ('https://github.com/PavlenkoV', 'My Github', 'icon-github'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
         )
     }
 
